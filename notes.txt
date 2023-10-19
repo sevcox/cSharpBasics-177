@@ -1,0 +1,22 @@
+Terminal shortcuts:
+dotnet new --list  -> gives a listing of EVERY dotnet project that we can create
+
+New console app:
+dotnet new console -o "01_Variables"
+
+dotnet new sln -n "cSharpBasics"
+
+Adding the console app to the 'sln' (solution) file
+dotnet sln add .\00_Helloworld\
+
+remove a project from a  'sln' file
+dotnet sln remove .\00_Helloworld\
+
+build all project(s)
+dotnet build
+
+run console app:
+dotnet run --project .\00_Helloworld\
+
+activates (Hot reload) -> to escape 'hot-reload' [ctrl+c] in Terminal
+dotnet watch run --project .\00_Helloworld\  

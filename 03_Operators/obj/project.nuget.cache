@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ufl/PZi9OIUDBRhxkgiPH+HhbiwDlyY/dvM4+thPDDkRGEi6UW3K3gXjQ3Bpt0/SGS92tLEcFJsvpm4pTsP2YA==",
+  "success": true,
+  "projectFilePath": "c:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\03_Operators\\03_Operators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

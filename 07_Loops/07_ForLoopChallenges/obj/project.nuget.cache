@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6KC6oHep2vZNWOsSXCKfS4Xtup0hhcj8dqPoCKwSZDWc3r4Cbip1ohylba6V0r6HZHHxNmoGaYJGtXxi9jurA==",
+  "success": true,
+  "projectFilePath": "c:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\07_Loops\\07_ForLoopChallenges\\07_ForLoopChallenges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
