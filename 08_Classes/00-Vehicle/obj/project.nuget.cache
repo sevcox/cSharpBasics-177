@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUpYmle4kplXVdNpa85KfWICb+NC3CuDVugLb5CVhlZX4pHPRE0Vmu980w/SPgODfeDDXpLMECs2Bi0K9SIASw==",
+  "success": true,
+  "projectFilePath": "C:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\08_Classes\\00-Vehicle\\00-Vehicle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

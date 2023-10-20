@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\bin\Debug\net7.0\02-Fields.exe
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\bin\Debug\net7.0\02-Fields.deps.json
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\bin\Debug\net7.0\02-Fields.runtimeconfig.json
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\bin\Debug\net7.0\02-Fields.dll
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\bin\Debug\net7.0\02-Fields.pdb
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\02-Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\02-Fields.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\02-Fields.AssemblyInfo.cs
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\02-Fields.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\02-Fields.sourcelink.json
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\02-Fields.dll
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\refint\02-Fields.dll
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\02-Fields.pdb
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\02-Fields.genruntimeconfig.cache
+C:\ElevenFiftyProjects_177\dotnetProjects\csharpBasics\08_Classes\02-Fields\obj\Debug\net7.0\ref\02-Fields.dll

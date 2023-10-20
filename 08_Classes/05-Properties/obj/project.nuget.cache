@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEkPVc3T+BavFvR2hdTUo/lJ0I0Z0N0bniv9nTlduTBDujagzFQPeYEDT0KHdSWM22tVJqq+iXIaZHWQ+CouwA==",
+  "success": true,
+  "projectFilePath": "C:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\08_Classes\\05-Properties\\05-Properties.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "02-Ass/1.0.0": {
+        "dependencies": {
+          "02-Fields": "1.0.0"
+        },
+        "runtime": {
+          "02-Ass.dll": {}
+        }
+      },
+      "02-Fields/1.0.0": {
+        "runtime": {
+          "02-Fields.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02-Ass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "02-Fields/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
