@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Pq/S9RTXX5MfasVP9nBcVmPgw4FSwLvsM/ZDDkYJfenGyMSZho2zPHJEwXNUsG/k5pCq47sim/WJA3r0RXNqeA==",
+  "dgSpecHash": "Kw0AxeoXM2pLYcl6TsmQ2JFxA6hXs74wxyzIzzuvkLkEh9lFD6U4ZRHwrqhU0MWTXH6KjrmYMkdPjP3vWgPwaA==",
   "success": true,
-  "projectFilePath": "C:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\08_Classes\\03-Constructors\\03-Constructors.csproj",
+  "projectFilePath": "/Users/severacox/Desktop/EFA/cSharpBasics-177/08_Classes/03-Constructors/03-Constructors.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+    "/Users/severacox/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "/Users/severacox/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "/Users/severacox/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.12/microsoft.netcore.app.host.osx-x64.7.0.12.nupkg.sha512"
   ],
   "logs": []
 }

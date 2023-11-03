@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lJAHhfgYiC8XnADFkWnSmjL6WyVkskP6CGxu2MkiWQQ7nh/fxyvjHnGJMMWU2pSsQd9bESw9fGcRP7J8D2slNA==",
+  "dgSpecHash": "tDK+RmyTPRL2Bj9MEFgLIytXqFB56ycqYo1zrMsmo93jCHYC7ayQ7NVarSkwPpntj3ZQrgZ6sXISt7W9J36WGg==",
   "success": true,
-  "projectFilePath": "c:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\06_Tenaries\\06_Tenaries.csproj",
+  "projectFilePath": "/Users/severacox/Desktop/EFA/cSharpBasics-177/06_Tenaries/06_Tenaries.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+    "/Users/severacox/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "/Users/severacox/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "/Users/severacox/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.12/microsoft.netcore.app.host.osx-x64.7.0.12.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QUpYmle4kplXVdNpa85KfWICb+NC3CuDVugLb5CVhlZX4pHPRE0Vmu980w/SPgODfeDDXpLMECs2Bi0K9SIASw==",
+  "dgSpecHash": "37F2Uf3UYaAQBump1gRQBvzRtrCOcO4WEemm0i+XRLt8kuzl+zUfWmJnMn62uY1lZI7HhXGF78ct9bsDkK3Yqg==",
   "success": true,
-  "projectFilePath": "C:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\08_Classes\\00-Vehicle\\00-Vehicle.csproj",
+  "projectFilePath": "/Users/severacox/Desktop/EFA/cSharpBasics-177/08_Classes/00-Vehicle/00-Vehicle.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
-    "C:\\Users\\Tinka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+    "/Users/severacox/.nuget/packages/microsoft.netcore.app.ref/7.0.12/microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "/Users/severacox/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.12/microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "/Users/severacox/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.12/microsoft.netcore.app.host.osx-x64.7.0.12.nupkg.sha512"
   ],
   "logs": []
 }

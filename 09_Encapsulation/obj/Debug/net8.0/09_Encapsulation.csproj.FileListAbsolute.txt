@@ -1,0 +1,15 @@
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/bin/Debug/net8.0/09_Encapsulation
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/bin/Debug/net8.0/09_Encapsulation.deps.json
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/bin/Debug/net8.0/09_Encapsulation.runtimeconfig.json
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/bin/Debug/net8.0/09_Encapsulation.dll
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/bin/Debug/net8.0/09_Encapsulation.pdb
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/09_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/09_Encapsulation.AssemblyInfoInputs.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/09_Encapsulation.AssemblyInfo.cs
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/09_Encapsulation.csproj.CoreCompileInputs.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/09_Encapsulation.sourcelink.json
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/09_Encapsulation.dll
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/refint/09_Encapsulation.dll
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/09_Encapsulation.pdb
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/09_Encapsulation.genruntimeconfig.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Encapsulation/obj/Debug/net8.0/ref/09_Encapsulation.dll

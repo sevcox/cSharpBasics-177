@@ -1,0 +1,5 @@
+/Users/severacox/Desktop/EFA/cSharpBasics-177/07_Loops/07_ForLoopChallenges/obj/Debug/net7.0/07_ForLoopChallenges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/severacox/Desktop/EFA/cSharpBasics-177/07_Loops/07_ForLoopChallenges/obj/Debug/net7.0/07_ForLoopChallenges.AssemblyInfoInputs.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/07_Loops/07_ForLoopChallenges/obj/Debug/net7.0/07_ForLoopChallenges.AssemblyInfo.cs
+/Users/severacox/Desktop/EFA/cSharpBasics-177/07_Loops/07_ForLoopChallenges/obj/Debug/net7.0/07_ForLoopChallenges.csproj.CoreCompileInputs.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/07_Loops/07_ForLoopChallenges/obj/Debug/net7.0/07_ForLoopChallenges.sourcelink.json

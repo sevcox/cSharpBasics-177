@@ -8,38 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tinka\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/severacox/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj",
+      "projectUniqueName": "/Users/severacox/Desktop/EFA/cSharpBasics-177/06_Conditionals/06_Conditionals.csproj",
       "projectName": "06_Conditionals",
-      "projectPath": "C:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\06_Conditionals\\06_Conditionals.csproj",
-      "packagesPath": "C:\\Users\\Tinka\\.nuget\\packages\\",
-      "outputPath": "C:\\ElevenFiftyProjects_177\\dotnetProjects\\csharpBasics\\06_Conditionals\\obj\\",
+      "projectPath": "/Users/severacox/Desktop/EFA/cSharpBasics-177/06_Conditionals/06_Conditionals.csproj",
+      "packagesPath": "/Users/severacox/.nuget/packages/",
+      "outputPath": "/Users/severacox/Desktop/EFA/cSharpBasics-177/06_Conditionals/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Tinka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/severacox/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -52,9 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -74,19 +57,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.9, 7.0.9]"
+            "version": "[7.0.12, 7.0.12]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.9, 7.0.9]"
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[7.0.12, 7.0.12]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.9, 7.0.9]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.9, 7.0.9]"
+            "version": "[7.0.12, 7.0.12]"
           }
         ],
         "frameworkReferences": {
@@ -94,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.2.23502.2/RuntimeIdentifierGraph.json"
       }
     }
   }

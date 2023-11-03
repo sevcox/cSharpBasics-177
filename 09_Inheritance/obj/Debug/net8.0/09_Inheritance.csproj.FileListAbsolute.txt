@@ -1,0 +1,15 @@
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/bin/Debug/net8.0/09_Inheritance
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/bin/Debug/net8.0/09_Inheritance.deps.json
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/bin/Debug/net8.0/09_Inheritance.runtimeconfig.json
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/bin/Debug/net8.0/09_Inheritance.dll
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/bin/Debug/net8.0/09_Inheritance.pdb
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/09_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/09_Inheritance.AssemblyInfoInputs.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/09_Inheritance.AssemblyInfo.cs
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/09_Inheritance.csproj.CoreCompileInputs.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/09_Inheritance.sourcelink.json
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/09_Inheritance.dll
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/refint/09_Inheritance.dll
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/09_Inheritance.pdb
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/09_Inheritance.genruntimeconfig.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Inheritance/obj/Debug/net8.0/ref/09_Inheritance.dll

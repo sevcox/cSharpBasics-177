@@ -1,0 +1,15 @@
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/bin/Debug/net8.0/09_Abstraction
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/bin/Debug/net8.0/09_Abstraction.deps.json
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/bin/Debug/net8.0/09_Abstraction.runtimeconfig.json
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/bin/Debug/net8.0/09_Abstraction.dll
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/bin/Debug/net8.0/09_Abstraction.pdb
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/09_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/09_Abstraction.AssemblyInfoInputs.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/09_Abstraction.AssemblyInfo.cs
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/09_Abstraction.csproj.CoreCompileInputs.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/09_Abstraction.sourcelink.json
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/09_Abstraction.dll
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/refint/09_Abstraction.dll
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/09_Abstraction.pdb
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/09_Abstraction.genruntimeconfig.cache
+/Users/severacox/Desktop/EFA/cSharpBasics-177/09_Abstraction/obj/Debug/net8.0/ref/09_Abstraction.dll

@@ -54,3 +54,16 @@ System.Console.WriteLine(donut2);
 System.Console.WriteLine("-------------------");
 System.Console.WriteLine(plain);
 
+Donut strawberryDonut = new Donut();
+// strawberryDonut.Filling = null
+// strawberryDonut.Topping = null
+// strawberryDonut.Price = .25m
+// strawberryDonut.isSpecial = false
+string strawberryDonutType = strawberryDonut.GetDonutType();
+System.Console.WriteLine(strawberryDonutType);
+
+Donut strawberryDonut2 = new Donut("Cake", "strawberry", "sprinkles", true);
+// strawberryDonut2.Filling = strawberry
+// strawberryDonut.Topping = sprinkles
+// strawberryDonut.Price = .25m
+// strawberryDonut.isSpecial = true
